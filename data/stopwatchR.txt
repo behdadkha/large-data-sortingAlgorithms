@@ -1,0 +1,9 @@
+
+ThreePartition Quick: p1:0.0 p2:0.0 p3:0.001 p4:0.0 p5:0.002
+Basic Quick: p1:0.0 p2:0.0 p3:0.0 p4:0.001 p5:0.001
+InsertSort(not comparable): p1:0.001 p2:0.0 p3:0.001 p4:0.01 p5:0.012
+InsertComparable: p1:0.0 p2:0.0 p3:0.001 p4:0.006 p5:0.028
+Heap sort: p1:0.001 p2:0.0 p3:0.0 p4:0.001 p5:0.001
+MergeBU: p1:0.001 p2:0.0 p3:0.0 p4:0.001 p5:0.001
+MergeTD: p1:0.0 p2:0.0 p3:0.001 p4:0.0 p5:0.001
+InsertBinary: p1:0.0 p2:0.0 p3:0.001 p4:0.002 p5:0.048
