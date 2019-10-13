@@ -1,6 +1,6 @@
 # large-data-sortingAlgorithms
 
-implemented algorithms:
+implemented algorithms:\
 Heap sort\
 Insertion sort\
 Merge sort\
