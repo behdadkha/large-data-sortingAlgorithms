@@ -11,7 +11,7 @@ import java.util.UUID;
 public class Gen {
 
 	public static void main(String[] args) throws IOException {
-		String studentId = "400125549";
+		String studentId = "400125649";
 		
 		int seed = 0;
 		for (int i = 0; i < studentId.length(); i++) {
