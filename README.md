@@ -10,4 +10,4 @@ The Gen.java creates five arrays of size: 2^4, 2^6, 2^8, 2^10 and 2^12. The data
 a1_in.txt is the generated file.
 
 In this project I compared the sorting algorithms listed above.\
-Result:basic quick sort was found to be the fastest.
+Result: basic quick sort was found to be the fastest.
